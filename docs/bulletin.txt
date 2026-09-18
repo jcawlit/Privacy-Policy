@@ -1,0 +1,11 @@
+Welcome to Offgrid Bookshelf.
+
+This is where app notes, release updates, and quick tips will show up.
+
+Current notes:
+- Import and export now show clearer progress.
+- Free users see a smaller Pro shelf preview.
+- The player screen is getting cleaner and easier to read.
+
+Tip:
+Long-press a book for extra options like cover, ebook, audio, export, and save to device.
